@@ -1,0 +1,200 @@
+[
+    {
+        "image": "https://i.ibb.co/sW25Mgz/pexels-wdnet-565324.jpg",
+        "more_image": "https://i.ibb.co/6tk1dYj/pexels-heyho-5998138.jpg",
+        "estate_title": "Luxury Villa with Ocean View",
+        "id": "1",
+        "segment_name": "Villa",
+        "description": "Beautiful villa located on the coast with breathtaking ocean views. This spacious property offers luxurious amenities and a serene atmosphere.",
+        "price": 2500000,
+        "status": "sale",
+        "area": 5000,
+        "location": "Coastal Drive, Paradise Cove",
+        "floor": 19,
+        "facilities": "living room, swimming pool, kitchen",
+        "view_property_button": "View Property",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "garage": 2,
+        "year_built": 2010
+    },
+    {
+        "image": "https://i.ibb.co/fqXcTZT/pexels-curtis-adams-15409440.jpg",
+        "more_image": "https://i.ibb.co/MVqx88r/pexels-charlotte-may-5824519.jpg",
+        "estate_title": "Downtown Penthouse",
+        "id": "2",
+        "segment_name": "Penthouse",
+        "description": "Stunning penthouse located in the heart of the city. Enjoy panoramic views of the skyline from the comfort of your own home.",
+        "price": 5000,
+        "status": "rent",
+        "area": 2000,
+        "location": "Downtown Avenue, City Center",
+        "floor": 22,
+        "facilities": [
+            "living room",
+            "gym",
+            "rooftop terrace"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "amenities": [
+            "concierge service",
+            "security",
+            "parking"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/XjbLQyQ/pexels-ahmetkurt-19119705.jpg",
+        "more_image": "https://i.ibb.co/VSs9fsy/pexels-pixabay-275484.jpg",
+        "estate_title": "Mountain Retreat Cabin",
+        "id": "3",
+        "segment_name": "Cabin",
+        "description": "Cozy cabin nestled in the mountains, surrounded by nature. Perfect for those seeking tranquility and adventure.",
+        "price": 300000,
+        "status": "sale",
+        "area": 1500,
+        "location": "Mountain Trail, Pine Valley",
+        "floor": 9,
+        "facilities": [
+            "living room",
+            "fireplace",
+            "deck"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "acres": 5
+    },
+    {
+        "image": "https://i.ibb.co/4KDY05H/pexels-muneeb-babar-1300535-19194725.jpg",
+        "more_image": "https://i.ibb.co/8gspm2L/pexels-otavio-4665034.jpg",
+        "estate_title": "Beachfront Condo",
+        "id": "4",
+        "segment_name": "Condo",
+        "description": "Modern condo located steps away from the beach. Experience the ultimate coastal lifestyle with this prime property.",
+        "price": 1200000,
+        "status": "rent",
+        "area": 1200,
+        "location": "Seaside Boulevard, Coastal City",
+        "facilities": [
+            "living room",
+            "balcony",
+            "fitness center"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "floor": 10,
+        "hoa_fee": "$500/month"
+    },
+    {
+        "image": "https://i.ibb.co/dfP1Kzs/pexels-jessica-bryant-1370704.jpg",
+        "more_image": "https://i.ibb.co/KGd3Sh7/pexels-joshsorenson-1714430.jpg",
+        "estate_title": "Country Estate Mansion",
+        "id": "5",
+        "segment_name": "Mansion",
+        "description": "Grand mansion set on expansive grounds in the countryside. This majestic estate offers luxury living and unparalleled privacy.",
+        "price": "7500000",
+        "status": "sale",
+        "area": "10000 sq ft",
+        "location": "Mansion Lane, Countryside",
+        "floor": 14,
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "tennis court"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 8,
+        "bathrooms": 6,
+        "acres": 20
+    },
+    {
+        "image": "https://i.ibb.co/z7wxrw6/pexels-expect-best-323780.jpg",
+        "more_image": "https://i.ibb.co/q1FNLRc/pexels-angela-cavina-898790-2380247.jpg",
+        "estate_title": "Urban Loft",
+        "id": "6",
+        "segment_name": "Loft",
+        "description": "Chic loft apartment in a trendy urban neighborhood. Embrace modern city living with this stylish and functional space.",
+        "price": 800000,
+        "status": "sale",
+        "area": 1800,
+        "location": "Art District, Metropolis",
+        "facilities": [
+            "living room",
+            "exposed brick walls",
+            "rooftop garden"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "floor": 9
+    },
+    {
+        "image": "https://i.ibb.co/6b8tpWc/pexels-frans-van-heerden-1438832.jpg",
+        "more_image": "https://i.ibb.co/W3cwt4D/pexels-pixabay-271624.jpg",
+        "estate_title": "Lakeview Cottage",
+        "id": "7",
+        "segment_name": "Cottage",
+        "description": "Quaint cottage overlooking a picturesque lake. Escape the hustle and bustle of city life with this charming retreat.",
+        "price": 400000,
+        "status": "rent",
+        "area": 800,
+        "location": "Lakeview Lane, Serene Valley",
+        "floor": 14,
+        "facilities": [
+            "living room",
+            "porch",
+            "dock"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "acres": 1
+    },
+    {
+        "image": "https://i.ibb.co/Y8FgWMh/pexels-eziz-charyyev-1475938.jpg",
+        "more_image": "https://i.ibb.co/Wxrt9wm/pexels-curtis-adams-1694007-3773570.jpg",
+        "estate_title": "Luxury Apartment Tower",
+        "id": "8",
+        "segment_name": "Apartment",
+        "description": "Exclusive apartment tower offering unparalleled luxury and convenience. Elevate your lifestyle with stunning views and top-notch amenities.",
+        "price": 3000000,
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "Skyline Avenue, Metropolitan Hub",
+        "facilities": [
+            "living room",
+            "spa",
+            "concierge service"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "floor": 20,
+        "hoa_fee": "$1000/month"
+    },
+    {
+        "image": "https://i.ibb.co/XDW86Wy/pexels-alex-staudinger-1732414.jpg",
+        "more_image": "https://i.ibb.co/gV5JDv4/pexels-pixabay-276666.jpg",
+        "estate_title": "Rural Farmhouse",
+        "id": "9",
+        "segment_name": "Farmhouse",
+        "description": "Charming farmhouse set amidst rolling hills and farmland. Experience the rustic beauty and tranquility of country living.",
+        "price": "$600000/month",
+        "status": "rent",
+        "area": "2500 sq ft",
+        "location": "Country Road, Farming Community",
+        "floor": 12,
+        "facilities": [
+            "living room",
+            "barn",
+            "gardens"
+        ],
+        "view_property_button": "View Property",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "acres": 10
+    }
+]
